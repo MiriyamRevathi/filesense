@@ -1,0 +1,6 @@
+{
+  "name": "FileSense",
+  "description": "Privacy-first smart local file organizer with SHA-256 duplicate detection, storage analytics, and persistent IndexedDB storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
