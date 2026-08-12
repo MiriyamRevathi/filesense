@@ -4,14 +4,19 @@
   "version": "1.0.0",
   "description": "Smart Local File Organizer & Cryptographic SHA-256 Duplicate Cleaner",
   "main": "server.ts",
+  "bin": {
+    "filesense": "./dist/cli.js"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
     "start": "node dist/server.js",
+    "cli": "tsx bin/filesense.ts",
     "server": "tsx server/index.ts",
     "build:client": "vite build",
     "build:server": "esbuild server/index.ts --bundle --platform=node --target=node20 --outfile=dist/server.js --external:express --external:@google/genai --external:dotenv --external:vite --format=esm",
-    "build": "npm run build:client && npm run build:server",
+    "build:cli": "esbuild bin/filesense.ts --bundle --platform=node --target=node20 --outfile=dist/cli.js --external:@google/genai --external:dotenv --format=esm",
+    "build": "npm run build:client && npm run build:server && npm run build:cli",
     "preview": "vite preview --port=3000 --host=0.0.0.0",
     "clean": "rm -rf dist",
     "lint": "tsc --noEmit",
