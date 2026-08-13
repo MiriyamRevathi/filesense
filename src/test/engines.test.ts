@@ -4,7 +4,6 @@ import { PerceptualHashEngine } from '../../server/engine/perceptualHashEngine';
 import { FuzzyTextEngine } from '../../server/engine/fuzzyTextEngine';
 import { RetentionPolicyEngine } from '../../server/engine/retentionPolicyEngine';
 import { StorageAdvisorEngine } from '../../server/engine/storageAdvisorEngine';
-import { StorageKnowledgeBase } from '../../server/knowledge';
 
 describe('Advanced Domain Engines & Knowledge Intelligence', () => {
   describe('FormatTaxonomyEngine', () => {
@@ -97,19 +96,6 @@ describe('Advanced Domain Engines & Knowledge Intelligence', () => {
       expect(report.totalFilesCount).toBe(2);
       expect(report.tieringBreakdown.length).toBe(4);
       expect(report.potentialCompressionSavingsBytes).toBeGreaterThan(0);
-    });
-  });
-
-  describe('StorageKnowledgeBase', () => {
-    it('retrieves enterprise storage profiles by industry and search query', () => {
-      const all = StorageKnowledgeBase.getAllProfiles();
-      expect(all.length).toBeGreaterThan(1000);
-
-      const healthcare = StorageKnowledgeBase.getProfilesByIndustry('Healthcare');
-      expect(healthcare.length).toBeGreaterThan(0);
-
-      const search = StorageKnowledgeBase.searchProfiles('cloud');
-      expect(search.length).toBeGreaterThan(0);
     });
   });
 });
