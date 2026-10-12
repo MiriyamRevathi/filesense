@@ -1,0 +1,16 @@
+{
+  "short_name": "FileSense",
+  "name": "FileSense - Smart Local File Organizer & Duplicate Cleaner",
+  "description": "Privacy-first local file manager and cryptographic SHA-256 duplicate cleaner.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#F7F5FF",
+  "theme_color": "#8064E9",
+  "display": "standalone"
+}
