@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-10-12T05:33:25.713Z",
+  "lastUpdated": "2026-10-12T05:55:56.427Z",
   "files": [
     {
       "id": "file_1791782112721_l86s671",
@@ -19,7 +19,7 @@
       ],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782112725_2o2hqqu",
@@ -38,7 +38,7 @@
       ],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782112729_wben9ei",
@@ -54,7 +54,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782112730_5h5tcz8",
@@ -70,7 +70,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782112730_aug21c0",
@@ -86,7 +86,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782112733_w3zs9et",
@@ -103,7 +103,7 @@
       "isDuplicate": false,
       "duplicateGroupId": "dup_a1b2c3d4e5f60718",
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782112734_vvx407w",
@@ -120,7 +120,7 @@
       "isDuplicate": true,
       "duplicateGroupId": "dup_a1b2c3d4e5f60718",
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782112735_fs4tclq",
@@ -137,7 +137,7 @@
       "isDuplicate": true,
       "duplicateGroupId": "dup_a1b2c3d4e5f60718",
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782112739_z10bc3v",
@@ -153,7 +153,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782112740_949hznl",
@@ -170,7 +170,7 @@
       "isDuplicate": true,
       "duplicateGroupId": "dup_fedcba0987654321",
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782112744_qtyndxc",
@@ -186,7 +186,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782112745_quw40ya",
@@ -202,7 +202,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782112745_h56y9hz",
@@ -218,7 +218,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782367551_nzejcex",
@@ -237,7 +237,7 @@
       ],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782367560_qwdyhr0",
@@ -256,7 +256,7 @@
       ],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782367574_qpr6ct8",
@@ -272,7 +272,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782367577_pnijo3v",
@@ -288,7 +288,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782367580_nlvtfmi",
@@ -304,7 +304,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782367592_wu6z1fo",
@@ -321,7 +321,7 @@
       "isDuplicate": false,
       "duplicateGroupId": "dup_a1b2c3d4e5f60718",
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782367594_lmtk6yr",
@@ -338,7 +338,7 @@
       "isDuplicate": true,
       "duplicateGroupId": "dup_a1b2c3d4e5f60718",
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782367597_by4qrip",
@@ -355,7 +355,7 @@
       "isDuplicate": true,
       "duplicateGroupId": "dup_a1b2c3d4e5f60718",
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782367611_t6gb2u5",
@@ -371,7 +371,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782367615_wfbymc4",
@@ -388,7 +388,7 @@
       "isDuplicate": true,
       "duplicateGroupId": "dup_fedcba0987654321",
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782367641_zcp58k6",
@@ -404,7 +404,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782367643_dihmkqp",
@@ -420,7 +420,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782367645_72k1tpm",
@@ -436,7 +436,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782616358_6q5uzar",
@@ -455,7 +455,7 @@
       ],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782616361_d06scxp",
@@ -474,7 +474,7 @@
       ],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782616367_pv3xzdg",
@@ -490,7 +490,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782616368_6hr4u79",
@@ -506,7 +506,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782616368_t5rbqaf",
@@ -522,7 +522,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782616373_eji5bpy",
@@ -539,7 +539,7 @@
       "isDuplicate": false,
       "duplicateGroupId": "dup_a1b2c3d4e5f60718",
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782616373_augs4u8",
@@ -556,7 +556,7 @@
       "isDuplicate": true,
       "duplicateGroupId": "dup_a1b2c3d4e5f60718",
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782616374_ckxorbr",
@@ -573,7 +573,7 @@
       "isDuplicate": true,
       "duplicateGroupId": "dup_a1b2c3d4e5f60718",
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782616379_uz2ypc6",
@@ -589,7 +589,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782616380_rjq5386",
@@ -606,7 +606,7 @@
       "isDuplicate": true,
       "duplicateGroupId": "dup_fedcba0987654321",
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782616385_cxzj2wp",
@@ -622,7 +622,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782616387_yy34sqi",
@@ -638,7 +638,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791782616388_r56vo0u",
@@ -654,7 +654,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791783205672_e0vl8dh",
@@ -673,7 +673,7 @@
       ],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791783205676_y322ksc",
@@ -692,7 +692,7 @@
       ],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791783205683_qayw1mk",
@@ -708,7 +708,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791783205684_esarp9t",
@@ -724,7 +724,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791783205685_6w6qk5d",
@@ -740,7 +740,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791783205689_r56bhgd",
@@ -757,7 +757,7 @@
       "isDuplicate": false,
       "duplicateGroupId": "dup_a1b2c3d4e5f60718",
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791783205690_ew2rpvz",
@@ -774,7 +774,7 @@
       "isDuplicate": true,
       "duplicateGroupId": "dup_a1b2c3d4e5f60718",
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791783205691_rkt1ar3",
@@ -791,7 +791,7 @@
       "isDuplicate": true,
       "duplicateGroupId": "dup_a1b2c3d4e5f60718",
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791783205697_7djwhhz",
@@ -807,7 +807,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791783205698_0p2emr3",
@@ -824,7 +824,7 @@
       "isDuplicate": true,
       "duplicateGroupId": "dup_fedcba0987654321",
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791783205705_a9js9wq",
@@ -840,7 +840,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791783205706_v49gu0h",
@@ -856,7 +856,7 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
     },
     {
       "id": "file_1791783205707_h8yza18",
@@ -872,7 +872,661 @@
       "tags": [],
       "isDuplicate": false,
       "isDeleted": true,
-      "deletedAt": 1791783205713
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791783305716_5ky3e9z",
+      "name": "annual_budget_forecast.xlsx",
+      "size": 1048576,
+      "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "extension": "xlsx",
+      "lastModified": 1791783305716,
+      "dateAdded": 1791783305716,
+      "hash": "b5d4045c3f466fa91fe2cc6abe79232a1a57cdf104f7a26e716e0a1e2789df78",
+      "hashStatus": "hashed",
+      "category": "documents",
+      "tags": [
+        "finance",
+        "q4"
+      ],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791783305721_xzm400k",
+      "name": "presentation_draft.mp4",
+      "size": 52428800,
+      "type": "video/mp4",
+      "extension": "mp4",
+      "lastModified": 1791783305722,
+      "dateAdded": 1791783305722,
+      "hash": "",
+      "hashStatus": "unhashed",
+      "category": "other",
+      "tags": [
+        "reviewed",
+        "client"
+      ],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791783305731_u69eti8",
+      "name": "temp1.log",
+      "size": 100,
+      "type": "application/octet-stream",
+      "extension": "log",
+      "lastModified": 1791783305731,
+      "dateAdded": 1791783305731,
+      "hash": "",
+      "hashStatus": "unhashed",
+      "category": "other",
+      "tags": [],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791783305733_xcz79em",
+      "name": "temp2.log",
+      "size": 200,
+      "type": "application/octet-stream",
+      "extension": "log",
+      "lastModified": 1791783305733,
+      "dateAdded": 1791783305733,
+      "hash": "",
+      "hashStatus": "unhashed",
+      "category": "other",
+      "tags": [],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791783305734_gu4zo3n",
+      "name": "persist.txt",
+      "size": 300,
+      "type": "text/plain",
+      "extension": "txt",
+      "lastModified": 1791783305735,
+      "dateAdded": 1791783305735,
+      "hash": "",
+      "hashStatus": "unhashed",
+      "category": "documents",
+      "tags": [],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791783305749_hsqqrq8",
+      "name": "system_architecture.pdf",
+      "size": 2097152,
+      "type": "application/pdf",
+      "extension": "pdf",
+      "lastModified": 1791783305749,
+      "dateAdded": 1791783305749,
+      "hash": "a1b2c3d4e5f60718293a4b5c6d7e8f90a1b2c3d4e5f60718293a4b5c6d7e8f90",
+      "hashStatus": "hashed",
+      "category": "documents",
+      "tags": [],
+      "isDuplicate": false,
+      "duplicateGroupId": "dup_a1b2c3d4e5f60718",
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791783305751_brxwyiu",
+      "name": "system_architecture_copy.pdf",
+      "size": 2097152,
+      "type": "application/pdf",
+      "extension": "pdf",
+      "lastModified": 1791783305751,
+      "dateAdded": 1791783305751,
+      "hash": "a1b2c3d4e5f60718293a4b5c6d7e8f90a1b2c3d4e5f60718293a4b5c6d7e8f90",
+      "hashStatus": "hashed",
+      "category": "documents",
+      "tags": [],
+      "isDuplicate": true,
+      "duplicateGroupId": "dup_a1b2c3d4e5f60718",
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791783305753_kk2zqzs",
+      "name": "system_architecture (1).pdf",
+      "size": 2097152,
+      "type": "application/pdf",
+      "extension": "pdf",
+      "lastModified": 1791783305753,
+      "dateAdded": 1791783305753,
+      "hash": "a1b2c3d4e5f60718293a4b5c6d7e8f90a1b2c3d4e5f60718293a4b5c6d7e8f90",
+      "hashStatus": "hashed",
+      "category": "documents",
+      "tags": [],
+      "isDuplicate": true,
+      "duplicateGroupId": "dup_a1b2c3d4e5f60718",
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791783305765_q7kzk4a",
+      "name": "original_record.csv",
+      "size": 5000,
+      "type": "text/csv",
+      "extension": "csv",
+      "lastModified": 1791783305765,
+      "dateAdded": 1791783305765,
+      "hash": "fedcba0987654321fedcba0987654321fedcba0987654321fedcba0987654321",
+      "hashStatus": "hashed",
+      "category": "documents",
+      "tags": [],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791783305767_plwfhq0",
+      "name": "backup_record.csv",
+      "size": 5000,
+      "type": "text/csv",
+      "extension": "csv",
+      "lastModified": 1791783305767,
+      "dateAdded": 1791783305767,
+      "hash": "fedcba0987654321fedcba0987654321fedcba0987654321fedcba0987654321",
+      "hashStatus": "hashed",
+      "category": "documents",
+      "tags": [],
+      "isDuplicate": true,
+      "duplicateGroupId": "dup_fedcba0987654321",
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791783305779_6d7mf96",
+      "name": "image1.jpg",
+      "size": 512000,
+      "type": "image/jpeg",
+      "extension": "jpg",
+      "lastModified": 1791783305779,
+      "dateAdded": 1791783305779,
+      "hash": "",
+      "hashStatus": "unhashed",
+      "category": "images",
+      "tags": [],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791783305780_12ct58i",
+      "name": "doc1.pdf",
+      "size": 5242880,
+      "type": "application/pdf",
+      "extension": "pdf",
+      "lastModified": 1791783305780,
+      "dateAdded": 1791783305780,
+      "hash": "",
+      "hashStatus": "unhashed",
+      "category": "documents",
+      "tags": [],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791783305783_rpk2580",
+      "name": "video1.mp4",
+      "size": 104857600,
+      "type": "video/mp4",
+      "extension": "mp4",
+      "lastModified": 1791783305783,
+      "dateAdded": 1791783305783,
+      "hash": "",
+      "hashStatus": "unhashed",
+      "category": "video",
+      "tags": [],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784053283_ogkvx1y",
+      "name": "annual_budget_forecast.xlsx",
+      "size": 1048576,
+      "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "extension": "xlsx",
+      "lastModified": 1791784053283,
+      "dateAdded": 1791784053283,
+      "hash": "b5d4045c3f466fa91fe2cc6abe79232a1a57cdf104f7a26e716e0a1e2789df78",
+      "hashStatus": "hashed",
+      "category": "documents",
+      "tags": [
+        "finance",
+        "q4"
+      ],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784053321_ziopgnf",
+      "name": "presentation_draft.mp4",
+      "size": 52428800,
+      "type": "video/mp4",
+      "extension": "mp4",
+      "lastModified": 1791784053323,
+      "dateAdded": 1791784053323,
+      "hash": "",
+      "hashStatus": "unhashed",
+      "category": "other",
+      "tags": [
+        "reviewed",
+        "client"
+      ],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784053388_1163fmx",
+      "name": "temp1.log",
+      "size": 100,
+      "type": "application/octet-stream",
+      "extension": "log",
+      "lastModified": 1791784053388,
+      "dateAdded": 1791784053388,
+      "hash": "",
+      "hashStatus": "unhashed",
+      "category": "other",
+      "tags": [],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784053397_61wxat1",
+      "name": "temp2.log",
+      "size": 200,
+      "type": "application/octet-stream",
+      "extension": "log",
+      "lastModified": 1791784053397,
+      "dateAdded": 1791784053397,
+      "hash": "",
+      "hashStatus": "unhashed",
+      "category": "other",
+      "tags": [],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784053406_ixnlbts",
+      "name": "persist.txt",
+      "size": 300,
+      "type": "text/plain",
+      "extension": "txt",
+      "lastModified": 1791784053406,
+      "dateAdded": 1791784053406,
+      "hash": "",
+      "hashStatus": "unhashed",
+      "category": "documents",
+      "tags": [],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784053449_gjvuzo6",
+      "name": "system_architecture.pdf",
+      "size": 2097152,
+      "type": "application/pdf",
+      "extension": "pdf",
+      "lastModified": 1791784053449,
+      "dateAdded": 1791784053449,
+      "hash": "a1b2c3d4e5f60718293a4b5c6d7e8f90a1b2c3d4e5f60718293a4b5c6d7e8f90",
+      "hashStatus": "hashed",
+      "category": "documents",
+      "tags": [],
+      "isDuplicate": false,
+      "duplicateGroupId": "dup_a1b2c3d4e5f60718",
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784053454_0kr5xhz",
+      "name": "system_architecture_copy.pdf",
+      "size": 2097152,
+      "type": "application/pdf",
+      "extension": "pdf",
+      "lastModified": 1791784053454,
+      "dateAdded": 1791784053454,
+      "hash": "a1b2c3d4e5f60718293a4b5c6d7e8f90a1b2c3d4e5f60718293a4b5c6d7e8f90",
+      "hashStatus": "hashed",
+      "category": "documents",
+      "tags": [],
+      "isDuplicate": true,
+      "duplicateGroupId": "dup_a1b2c3d4e5f60718",
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784053464_oqe02wa",
+      "name": "system_architecture (1).pdf",
+      "size": 2097152,
+      "type": "application/pdf",
+      "extension": "pdf",
+      "lastModified": 1791784053464,
+      "dateAdded": 1791784053464,
+      "hash": "a1b2c3d4e5f60718293a4b5c6d7e8f90a1b2c3d4e5f60718293a4b5c6d7e8f90",
+      "hashStatus": "hashed",
+      "category": "documents",
+      "tags": [],
+      "isDuplicate": true,
+      "duplicateGroupId": "dup_a1b2c3d4e5f60718",
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784053501_yliwl72",
+      "name": "original_record.csv",
+      "size": 5000,
+      "type": "text/csv",
+      "extension": "csv",
+      "lastModified": 1791784053501,
+      "dateAdded": 1791784053501,
+      "hash": "fedcba0987654321fedcba0987654321fedcba0987654321fedcba0987654321",
+      "hashStatus": "hashed",
+      "category": "documents",
+      "tags": [],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784053508_iy2gpwu",
+      "name": "backup_record.csv",
+      "size": 5000,
+      "type": "text/csv",
+      "extension": "csv",
+      "lastModified": 1791784053508,
+      "dateAdded": 1791784053508,
+      "hash": "fedcba0987654321fedcba0987654321fedcba0987654321fedcba0987654321",
+      "hashStatus": "hashed",
+      "category": "documents",
+      "tags": [],
+      "isDuplicate": true,
+      "duplicateGroupId": "dup_fedcba0987654321",
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784053544_x1034ag",
+      "name": "image1.jpg",
+      "size": 512000,
+      "type": "image/jpeg",
+      "extension": "jpg",
+      "lastModified": 1791784053544,
+      "dateAdded": 1791784053544,
+      "hash": "",
+      "hashStatus": "unhashed",
+      "category": "images",
+      "tags": [],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784053562_vxjzndz",
+      "name": "doc1.pdf",
+      "size": 5242880,
+      "type": "application/pdf",
+      "extension": "pdf",
+      "lastModified": 1791784053564,
+      "dateAdded": 1791784053564,
+      "hash": "",
+      "hashStatus": "unhashed",
+      "category": "documents",
+      "tags": [],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784053579_6qf3zc7",
+      "name": "video1.mp4",
+      "size": 104857600,
+      "type": "video/mp4",
+      "extension": "mp4",
+      "lastModified": 1791784053579,
+      "dateAdded": 1791784053579,
+      "hash": "",
+      "hashStatus": "unhashed",
+      "category": "video",
+      "tags": [],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784556321_ocymmfi",
+      "name": "annual_budget_forecast.xlsx",
+      "size": 1048576,
+      "type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "extension": "xlsx",
+      "lastModified": 1791784556321,
+      "dateAdded": 1791784556321,
+      "hash": "b5d4045c3f466fa91fe2cc6abe79232a1a57cdf104f7a26e716e0a1e2789df78",
+      "hashStatus": "hashed",
+      "category": "documents",
+      "tags": [
+        "finance",
+        "q4"
+      ],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784556329_7a5pz2e",
+      "name": "presentation_draft.mp4",
+      "size": 52428800,
+      "type": "video/mp4",
+      "extension": "mp4",
+      "lastModified": 1791784556329,
+      "dateAdded": 1791784556329,
+      "hash": "",
+      "hashStatus": "unhashed",
+      "category": "other",
+      "tags": [
+        "reviewed",
+        "client"
+      ],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784556343_wpq57hz",
+      "name": "temp1.log",
+      "size": 100,
+      "type": "application/octet-stream",
+      "extension": "log",
+      "lastModified": 1791784556343,
+      "dateAdded": 1791784556343,
+      "hash": "",
+      "hashStatus": "unhashed",
+      "category": "other",
+      "tags": [],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784556345_kgbwz22",
+      "name": "temp2.log",
+      "size": 200,
+      "type": "application/octet-stream",
+      "extension": "log",
+      "lastModified": 1791784556345,
+      "dateAdded": 1791784556345,
+      "hash": "",
+      "hashStatus": "unhashed",
+      "category": "other",
+      "tags": [],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784556348_aedoogw",
+      "name": "persist.txt",
+      "size": 300,
+      "type": "text/plain",
+      "extension": "txt",
+      "lastModified": 1791784556348,
+      "dateAdded": 1791784556348,
+      "hash": "",
+      "hashStatus": "unhashed",
+      "category": "documents",
+      "tags": [],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784556360_xy0qht4",
+      "name": "system_architecture.pdf",
+      "size": 2097152,
+      "type": "application/pdf",
+      "extension": "pdf",
+      "lastModified": 1791784556360,
+      "dateAdded": 1791784556360,
+      "hash": "a1b2c3d4e5f60718293a4b5c6d7e8f90a1b2c3d4e5f60718293a4b5c6d7e8f90",
+      "hashStatus": "hashed",
+      "category": "documents",
+      "tags": [],
+      "isDuplicate": false,
+      "duplicateGroupId": "dup_a1b2c3d4e5f60718",
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784556362_cn5foli",
+      "name": "system_architecture_copy.pdf",
+      "size": 2097152,
+      "type": "application/pdf",
+      "extension": "pdf",
+      "lastModified": 1791784556362,
+      "dateAdded": 1791784556362,
+      "hash": "a1b2c3d4e5f60718293a4b5c6d7e8f90a1b2c3d4e5f60718293a4b5c6d7e8f90",
+      "hashStatus": "hashed",
+      "category": "documents",
+      "tags": [],
+      "isDuplicate": true,
+      "duplicateGroupId": "dup_a1b2c3d4e5f60718",
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784556368_tf6x59s",
+      "name": "system_architecture (1).pdf",
+      "size": 2097152,
+      "type": "application/pdf",
+      "extension": "pdf",
+      "lastModified": 1791784556368,
+      "dateAdded": 1791784556368,
+      "hash": "a1b2c3d4e5f60718293a4b5c6d7e8f90a1b2c3d4e5f60718293a4b5c6d7e8f90",
+      "hashStatus": "hashed",
+      "category": "documents",
+      "tags": [],
+      "isDuplicate": true,
+      "duplicateGroupId": "dup_a1b2c3d4e5f60718",
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784556384_rwdp6y7",
+      "name": "original_record.csv",
+      "size": 5000,
+      "type": "text/csv",
+      "extension": "csv",
+      "lastModified": 1791784556384,
+      "dateAdded": 1791784556384,
+      "hash": "fedcba0987654321fedcba0987654321fedcba0987654321fedcba0987654321",
+      "hashStatus": "hashed",
+      "category": "documents",
+      "tags": [],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784556386_2a5xpi9",
+      "name": "backup_record.csv",
+      "size": 5000,
+      "type": "text/csv",
+      "extension": "csv",
+      "lastModified": 1791784556386,
+      "dateAdded": 1791784556386,
+      "hash": "fedcba0987654321fedcba0987654321fedcba0987654321fedcba0987654321",
+      "hashStatus": "hashed",
+      "category": "documents",
+      "tags": [],
+      "isDuplicate": true,
+      "duplicateGroupId": "dup_fedcba0987654321",
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784556407_1puc5ku",
+      "name": "image1.jpg",
+      "size": 512000,
+      "type": "image/jpeg",
+      "extension": "jpg",
+      "lastModified": 1791784556407,
+      "dateAdded": 1791784556407,
+      "hash": "",
+      "hashStatus": "unhashed",
+      "category": "images",
+      "tags": [],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784556409_hncu1i7",
+      "name": "doc1.pdf",
+      "size": 5242880,
+      "type": "application/pdf",
+      "extension": "pdf",
+      "lastModified": 1791784556409,
+      "dateAdded": 1791784556409,
+      "hash": "",
+      "hashStatus": "unhashed",
+      "category": "documents",
+      "tags": [],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
+    },
+    {
+      "id": "file_1791784556413_i304dmj",
+      "name": "video1.mp4",
+      "size": 104857600,
+      "type": "video/mp4",
+      "extension": "mp4",
+      "lastModified": 1791784556413,
+      "dateAdded": 1791784556413,
+      "hash": "",
+      "hashStatus": "unhashed",
+      "category": "video",
+      "tags": [],
+      "isDuplicate": false,
+      "isDeleted": true,
+      "deletedAt": 1791784556427
     }
   ]
 }
